@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Smith, Joe",
+    "accounts": [
+      {
+        "id": 10,
+        "balanceInCents": 10000
+      },
+      {
+        "id": 11,
+        "balanceInCents": 20000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Field, Sally",
+    "accounts": [
+      {
+        "id": 20,
+        "balanceInCents": 30000
+      },
+      {
+        "id": 21,
+        "balanceInCents": 40000
+      }
+    ]
+  }
+]
